@@ -1,0 +1,2 @@
+serviceClass: com.insightech.onlinebeacon.admin.AdminService
+path: 54C7CA7A1EDA2F17B16475E6C6A0422F.gwt.rpc
